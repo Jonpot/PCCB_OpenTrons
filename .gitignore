@@ -1,0 +1,32 @@
+# Byte-compiled / cache directories
+__pycache__/
+*.pyc
+
+# Generated result images and CSVs
+**/linear_results/**
+**/mix_results/**
+**/pca/**
+camera/corrected_matrix.json
+camera/output_with_centers_corr.jpg
+camera/snapshot.jpg
+robot/args.jsonx
+camera/output_with_read_colors.jpg
+camera/raw_matrix.json
+battleship/robot/args.jsonx
+camera/measured_colors.png
+camera/dual_raw_matrix.json
+camera/dual_output_with_read_colors.jpg
+camera/calibration.json
+/color_matching/color_space_research
+/color_matching/data_session2
+/color_matching/data_session3
+/color_matching/data_session4
+/color_matching/OT3
+/color_matching/OT4
+/color_matching/OT_1
+/color_matching/OT_2
+/color_matching/OT_5
+/color_matching/OT_6
+/secret
+color_matching/data/well_data.json
+color_matching/data/global_well_data.json
