@@ -7,6 +7,11 @@ Color Matching automates color mixing experiments on an Opentrons OT-2 robot usi
 
 Battleship automates a tournament of the game of Battleship played with water for ocean, acid for ships, and pH indicator as "missiles". Identification of the wells is done with a webcame for feedback. The project aims to pit student-submitted AIs (and instructor written historically-themed competitors) against each other in a tournament. 
 
+## Physical Setup
+This repository assumes you have ELP 5-50mm Varifocals Lenses (https://www.amazon.com/ELP-Varifocal-Definition-Android-Industrial/dp/B07D57PQB7) that are attached to an OpenTrons-2 Liquid Handler via the 3D-printable mounts found in "./OT2 Camera Mount - Top.stl" and "./OT2 Camera Mount - Bottom.stl"
+
+They can be affixed to the OT-2 in the front-left bracket via a screw or p20 pipette tip.
+
 ## Repository structure
 
 - **battleship/** – All files specifically related to battleship.
